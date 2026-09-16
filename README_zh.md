@@ -6,14 +6,6 @@
   <img src="./docs/framework.png" alt="Enfold 框架图" width="100%">
 </p>
 
-<p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/README-English-111111.svg" alt="English"></a>
-  <a href="./README_zh.md"><img src="https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-d14836.svg" alt="中文"></a>
-  <a href="https://arxiv.org/abs/2607.26657"><img src="https://img.shields.io/badge/arXiv-2607.26657-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://zwl666666.github.io/enfold/"><img src="https://img.shields.io/badge/Project_Page-Enfold-2ea44f.svg" alt="Project Page"></a>
-  <a href="https://huggingface.co/richardxyt/Enfold"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-f7c843.svg" alt="Hugging Face Model"></a>
-</p>
-
 ## 结果
 
 ### LIBERO
@@ -419,18 +411,3 @@ bash eval.sh robotwin <checkpoint.pt> <dataset_stats.json> \
 ## 致谢
 
 本工作建立在 [Fast-WAM](https://github.com/yuantianyuan01/FastWAM) 的基础上。我们也感谢 [Cosmos-Predict2.5](https://github.com/nvidia-cosmos/cosmos-predict2.5)、[RoboTwin](https://github.com/RoboTwin-Platform/RoboTwin)、[LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) 和 [DINOv3](https://github.com/facebookresearch/dinov3) 团队公开相关工作。
-
-## BibTeX
-如果你觉得我们的工作有帮助，欢迎引用：
-
-```bibtex
-@misc{zeng2026enfoldfoldingworldmodel,
-  title={Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control}, 
-  author={Weili Zeng and Yitong Xing and Fulong Liu and Chengqun Yang and Antao Xiang and Feng Tian and Jingnan Gao and Jisong Cai and Xin Wang and Xiaomin Wu and Yao Mu and Xiaokang Yang and Yichao Yan},
-  year={2026},
-  eprint={2607.26657},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO},
-  url={https://arxiv.org/abs/2607.26657}, 
-}
-```
