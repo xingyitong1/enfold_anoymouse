@@ -2,6 +2,8 @@
 
 Official codebase for **Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control**
 
+[REPO URL](https://anonymous.4open.science/r/enfold_anoymous-726F)
+
 <p align="center">
   <img src="./docs/framework.png" alt="Enfold framework" width="100%">
 </p>

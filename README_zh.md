@@ -2,6 +2,8 @@
 
 **Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control**的官方代码仓库
 
+[仓库地址](https://anonymous.4open.science/r/enfold_anoymous-726F)
+
 <p align="center">
   <img src="./docs/framework.png" alt="Enfold 框架图" width="100%">
 </p>
